@@ -1,0 +1,456 @@
+﻿question_index,question,group_type,group_value,n_answered,agree_pct,disagree_pct,dont_know_pct,mean_score,n_scored
+1,"Tulevik tundub mulle äge, ootan seda põnevusega!",Overall,All,393,0.811704834605598,0.09414758269720101,0.09414758269720101,3.297752808988764,356
+2,Tulevik hirmutab mind,Overall,All,393,0.732824427480916,0.19083969465648856,0.0737913486005089,3.1101928374655645,363
+3,"Tahaksin, et võiksin kooli lõpetamisele minna suvalistes riietes",Overall,All,393,0.11450381679389313,0.821882951653944,0.061068702290076333,1.6358695652173914,368
+4,Ma tunnen end nüüd täiskasvanuna,Overall,All,393,0.3231552162849873,0.46055979643765904,0.21628498727735368,2.331168831168831,308
+5,Vanemad inimesed on noortest igas asjas targemad.,Overall,All,393,0.05597964376590331,0.8905852417302799,0.05343511450381679,1.6397849462365592,372
+6,"Mul on kõrini sellest, et kõik küsivad, mida ma pärast lõpetamist edasi teen.",Overall,All,393,0.6743002544529262,0.25699745547073793,0.06615776081424936,3.0765027322404372,366
+7,"Mul pole õrna aimugi, kelleks ma tahan saada.",Overall,All,393,0.4351145038167939,0.4758269720101781,0.089058524173028,2.5195530726256985,358
+8,Tegin enamiku kodutöid tehisaruga.,Overall,All,393,0.24936386768447838,0.6997455470737913,0.04580152671755725,1.9517426273458445,373
+9,"Olen teeselnud tunnis, et sain õpetajast/tunni teemast aru",Overall,All,393,0.7251908396946565,0.22646310432569974,0.04580152671755725,3.0427807486631018,374
+10,"Mõtlen pärast lõpetamist võtta vaheaasta, et töötada või puhata.",Overall,All,393,0.15012722646310434,0.6234096692111959,0.22646310432569974,1.7532894736842106,304
+12,Eestis tühistatakse inimesi liiga kergekäeliselt.,Overall,All,393,0.2340966921119593,0.29770992366412213,0.46564885496183206,2.397129186602871,209
+13,Tahan nüüd endale tätoveeringu teha lasta.,Overall,All,393,0.4300254452926209,0.4402035623409669,0.1297709923664122,2.435672514619883,342
+14,Armastan käia metsas.,Overall,All,393,0.8320610687022901,0.10687022900763359,0.061068702290076333,3.3712737127371275,369
+15,Armastan käia seenel.,Overall,All,393,0.4300254452926209,0.4300254452926209,0.13994910941475827,2.4792899408284024,338
+16,Mulle meeldib käia pidudel.,Overall,All,393,0.6997455470737913,0.22137404580152673,0.07888040712468193,3.0359116022099446,362
+17,Mulle meeldib teha sporti.,Overall,All,393,0.8193384223918575,0.11195928753180662,0.06361323155216285,3.3524590163934427,366
+18,Ma hakkan gümnaasiumis käimist taga igatsema.,Overall,All,393,0.5216284987277354,0.2697201017811705,0.20865139949109415,2.77491961414791,311
+19,Poliitikud tunduvad mulle äärmiselt usaldusväärsed ja targad inimesed.,Overall,All,393,0.022900763358778626,0.8956743002544529,0.08142493638676845,1.6759002770083102,361
+20,Eesti on salliv riik eri rahvuste suhtes.,Overall,All,393,0.40458015267175573,0.4173027989821883,0.178117048346056,2.4489164086687305,323
+21,Eesti on salliv riik seksuaalvähemuste suhtes.,Overall,All,393,0.26463104325699743,0.4961832061068702,0.2366412213740458,2.237458193979933,299
+22,Eesti võiks olla konservatiivsem.,Overall,All,393,0.15012722646310434,0.5903307888040712,0.25190839694656486,1.7903780068728523,291
+23,"Olen uhke, et olen eestlane.",Overall,All,393,0.8804071246819338,0.04834605597964377,0.06870229007633588,3.5013698630136987,365
+24,"Pean loomulikuks, et inimene võib ise määratleda, mis soost ta on.",Overall,All,393,0.55470737913486,0.2824427480916031,0.15267175572519084,2.8693009118541033,329
+25,Eestis peaks olema rohkem unisex-WC-sid.,Overall,All,393,0.2824427480916031,0.3944020356234097,0.3231552162849873,2.300751879699248,266
+26,"Võimekas juht võib olla nii naine kui mees. Loevad oskused, mitte sugu.",Overall,All,393,0.9821882951653944,0.01272264631043257,0.002544529262086514,3.918158567774936,391
+27,"Kokkama, koristama ja pesu pesema peavad koos elavad inimesed võrdselt, sõltumata soost.",Overall,All,393,0.9287531806615776,0.027989821882951654,0.043256997455470736,3.7632978723404253,376
+28,"Nõusolek on see, kui ma ütlen „jah”, mitte see, kui ma ei öelnud „ei”.",Overall,All,393,0.9516539440203562,0.020356234096692113,0.027989821882951654,3.8141361256544504,382
+29,Laste saamine on iga täiskasvanud kodaniku vastutus oma rahvuse säilimise nimel.,Overall,All,393,0.21882951653944022,0.6081424936386769,0.16793893129770993,1.9753846153846153,325
+30,Keskkonnahoid on mulle olulisem kui majanduskasv.,Overall,All,393,0.48854961832061067,0.19083969465648856,0.31806615776081426,2.846441947565543,267
+31,Eesti tegeleb kliimakriisi leevendamisega piisavalt.,Overall,All,393,0.2544529262086514,0.37404580152671757,0.37150127226463103,2.408906882591093,247
+32,Jalakäijate turvalisuse huvides võiks olla linnades autode kiiruspiirang 30 km/h.,Overall,All,393,0.13231552162849872,0.727735368956743,0.13994910941475827,1.8224852071005917,338
+33,Linnades võiks olla rohkem puid ja põõsaid.,Overall,All,393,0.9185750636132316,0.027989821882951654,0.05343511450381679,3.5080645161290325,372
+34,Eestis on igas maakonnas ja linnas võimalik täisväärtuslikku elu elada.,Overall,All,393,0.3435114503816794,0.4910941475826972,0.16539440203562342,2.3689024390243905,328
+35,Olen valmis vajadusel Eesti kaitsmiseks relva haarama.,Overall,All,393,0.356234096692112,0.3994910941475827,0.23155216284987276,2.4646464646464645,297
+36,Mul on kindel seisukoht Ukraina-Venemaa sõjas.,Overall,All,393,0.8396946564885496,0.043256997455470736,0.10687022900763359,3.6138328530259365,347
+37,Mul on kindel seisukoht Iisraeli-Palestiina konfliktis.,Overall,All,393,0.4961832061068702,0.1475826972010178,0.3460559796437659,3.0988142292490117,253
+38,Romantiline suhe on minu jaoks oluline osa elust.,Overall,All,393,0.7735368956743003,0.1475826972010178,0.07124681933842239,3.207182320441989,362
+39,Näen abiellumist olulise ja loomuliku osana oma tulevikust.,Overall,All,393,0.5852417302798982,0.25190839694656486,0.1628498727735369,2.9088145896656536,329
+40,Soovin kindlasti tulevikus saada lapsi.,Overall,All,393,0.6234096692111959,0.183206106870229,0.19083969465648856,3.091482649842271,317
+41,Tahaks tulevikus pigem koera või kassi kui last.,Overall,All,393,0.3053435114503817,0.4860050890585242,0.20865139949109415,2.32475884244373,311
+42,"Minu jaoks on tulevikus oluline just Eesti riigis oma pere luua, mitte välismaal.",Overall,All,393,0.3893129770992366,0.31297709923664124,0.29770992366412213,2.6159420289855073,276
+43,Minu jaoks on üürikorteris elada sama hea kui endale (pangalaenuga) ostetud kodus.,Overall,All,393,0.17048346055979643,0.5725190839694656,0.25699745547073793,1.9965753424657535,292
+44,Kavatsen elada ema ja/või isaga koos nii kaua kui võimalik.,Overall,All,393,0.1475826972010178,0.6921119592875318,0.15521628498727735,1.8212121212121213,330
+45,Tahan tulevikus pigem üksinda elada.,Overall,All,393,0.4732824427480916,0.3435114503816794,0.183206106870229,2.6448598130841123,321
+46,Elaksin tulevikus meelsasti koos sõpradega.,Overall,All,393,0.5241730279898219,0.3104325699745547,0.1628498727735369,2.6951219512195124,328
+47,Mul peaks olema tulevikus isiklik sõiduauto.,Overall,All,393,0.7913486005089059,0.14249363867684478,0.06361323155216285,3.3678474114441417,367
+48,Näen end tulevikus elamas väljaspool Eesti suuremaid linnasid.,Overall,All,393,0.42748091603053434,0.30788804071246817,0.26463104325699743,2.6366782006920415,289
+49,Näen end tulevikus elamas maapiirkonnas.,Overall,All,393,0.40966921119592875,0.356234096692112,0.23155216284987276,2.528239202657807,301
+50,Näen end tulevikus elamas välismaal.,Overall,All,393,0.46564885496183206,0.24427480916030533,0.2900763358778626,2.74910394265233,279
+51,"Minu jaoks on kõige olulisem selline koolide edetabel, mis näitab, kui õnnelikud on sealsed õpilased.",Overall,All,393,0.549618320610687,0.2697201017811705,0.178117048346056,2.8229813664596275,322
+52,Kutsekool on edasiõppimiseks sama hea valik kui kõrgkool.,Overall,All,393,0.6106870229007634,0.24173027989821882,0.1450381679389313,2.952238805970149,335
+53,Minu kooli õpetajad on targad ja inspireerivad.,Overall,All,393,0.7938931297709924,0.09923664122137404,0.09923664122137404,3.2564102564102564,351
+54,Kujutan end ette üheksast viieni kontoris töötamas.,Overall,All,393,0.15267175572519084,0.6666666666666666,0.1806615776081425,1.7888198757763976,322
+55,"Kujutan end ette tegemas üheksast viieni oskustööd (nt juuksur, ehitaja, elektrik).",Overall,All,393,0.25699745547073793,0.5521628498727735,0.18829516539440203,2.059748427672956,318
+56,Kodukontor ja paindlik tööaeg on elementaarne.,Overall,All,393,0.7659033078880407,0.1272264631043257,0.10687022900763359,3.1823361823361824,351
+57,Valin töö pigem palga kui kutsumuse järgi.,Overall,All,393,0.3104325699745547,0.5165394402035624,0.17302798982188294,2.252307692307692,325
+59,Alkohol on sama ohtlik kui enamik narkootikume.,Overall,All,393,0.5623409669211196,0.33587786259541985,0.10178117048346055,2.8413597733711047,353
+60,Narkootikumide tarvitamine on noorte seas tavaline.,Overall,All,393,0.45038167938931295,0.32061068702290074,0.22391857506361323,2.6303630363036303,303
+61,Alkoholi joomine on noorte seas tavaline.,Overall,All,393,0.9516539440203562,0.02544529262086514,0.020356234096692113,3.5677083333333335,384
+62,Olen tundnud puudust vaimse tervise abist.,Overall,All,393,0.4351145038167939,0.43765903307888043,0.12213740458015267,2.489795918367347,343
+63,"Pean oluliseks, et kõik inimesed vaktsineeriksid ennast, et vanad haigused ei tuleks tagasi.",Overall,All,393,0.7582697201017812,0.08651399491094147,0.14249363867684478,3.4156626506024095,332
+64,Noortel on keeruline paarisuhteid luua.,Overall,All,393,0.48854961832061067,0.30025445292620867,0.21119592875318066,2.7580645161290325,310
+65,Üheöösuhted on noorte seas tavalised.,Overall,All,393,0.33587786259541985,0.2748091603053435,0.3893129770992366,2.5833333333333335,240
+66,Enamik noori leiab partneri mõnest kohtinguäpist.,Overall,All,393,0.21628498727735368,0.3791348600508906,0.40458015267175573,2.3034188034188032,234
+67,Mind on seksuaalselt ahistatud täisealise poolt.,Overall,All,393,0.1628498727735369,0.7557251908396947,0.05089058524173028,1.5373961218836565,361
+1,"Tulevik tundub mulle äge, ootan seda põnevusega!",School location,Suurlinnad,217,0.8709677419354839,0.06912442396313365,0.059907834101382486,3.3627450980392157,204
+2,Tulevik hirmutab mind,School location,Suurlinnad,217,0.7004608294930875,0.2304147465437788,0.06912442396313365,3.0247524752475248,202
+3,"Tahaksin, et võiksin kooli lõpetamisele minna suvalistes riietes",School location,Suurlinnad,217,0.08294930875576037,0.8571428571428571,0.055299539170506916,1.5735294117647058,204
+4,Ma tunnen end nüüd täiskasvanuna,School location,Suurlinnad,217,0.3271889400921659,0.4700460829493088,0.20276497695852536,2.3236994219653178,173
+5,Vanemad inimesed on noortest igas asjas targemad.,School location,Suurlinnad,217,0.06451612903225806,0.8940092165898618,0.041474654377880185,1.625,208
+6,"Mul on kõrini sellest, et kõik küsivad, mida ma pärast lõpetamist edasi teen.",School location,Suurlinnad,217,0.6451612903225806,0.2995391705069124,0.055299539170506916,2.946341463414634,205
+7,"Mul pole õrna aimugi, kelleks ma tahan saada.",School location,Suurlinnad,217,0.3778801843317972,0.5253456221198156,0.0967741935483871,2.4081632653061225,196
+8,Tegin enamiku kodutöid tehisaruga.,School location,Suurlinnad,217,0.21658986175115208,0.7649769585253456,0.018433179723502304,1.835680751173709,213
+9,"Olen teeselnud tunnis, et sain õpetajast/tunni teemast aru",School location,Suurlinnad,217,0.728110599078341,0.23963133640552994,0.03225806451612903,3.0142857142857142,210
+10,"Mõtlen pärast lõpetamist võtta vaheaasta, et töötada või puhata.",School location,Suurlinnad,217,0.12903225806451613,0.6589861751152074,0.2119815668202765,1.6432748538011697,171
+12,Eestis tühistatakse inimesi liiga kergekäeliselt.,School location,Suurlinnad,217,0.22580645161290322,0.3225806451612903,0.45161290322580644,2.3445378151260505,119
+13,Tahan nüüd endale tätoveeringu teha lasta.,School location,Suurlinnad,217,0.423963133640553,0.45622119815668205,0.11981566820276497,2.3612565445026177,191
+14,Armastan käia metsas.,School location,Suurlinnad,217,0.8387096774193549,0.11059907834101383,0.05069124423963134,3.378640776699029,206
+15,Armastan käia seenel.,School location,Suurlinnad,217,0.4377880184331797,0.41935483870967744,0.14285714285714285,2.478494623655914,186
+16,Mulle meeldib käia pidudel.,School location,Suurlinnad,217,0.7235023041474654,0.1889400921658986,0.08755760368663594,3.106060606060606,198
+17,Mulle meeldib teha sporti.,School location,Suurlinnad,217,0.8617511520737328,0.0967741935483871,0.03225806451612903,3.4326923076923075,208
+18,Ma hakkan gümnaasiumis käimist taga igatsema.,School location,Suurlinnad,217,0.5483870967741935,0.28110599078341014,0.17050691244239632,2.761111111111111,180
+19,Poliitikud tunduvad mulle äärmiselt usaldusväärsed ja targad inimesed.,School location,Suurlinnad,217,0.027649769585253458,0.880184331797235,0.09216589861751152,1.6954314720812182,197
+20,Eesti on salliv riik eri rahvuste suhtes.,School location,Suurlinnad,217,0.4377880184331797,0.3870967741935484,0.17511520737327188,2.5027932960893855,179
+21,Eesti on salliv riik seksuaalvähemuste suhtes.,School location,Suurlinnad,217,0.3225806451612903,0.4700460829493088,0.2073732718894009,2.3372093023255816,172
+22,Eesti võiks olla konservatiivsem.,School location,Suurlinnad,217,0.1336405529953917,0.6912442396313364,0.17050691244239632,1.6927374301675977,179
+23,"Olen uhke, et olen eestlane.",School location,Suurlinnad,217,0.9170506912442397,0.03686635944700461,0.041474654377880185,3.579710144927536,207
+24,"Pean loomulikuks, et inimene võib ise määratleda, mis soost ta on.",School location,Suurlinnad,217,0.6589861751152074,0.2073732718894009,0.12903225806451613,3.0585106382978724,188
+25,Eestis peaks olema rohkem unisex-WC-sid.,School location,Suurlinnad,217,0.31336405529953915,0.34101382488479265,0.3456221198156682,2.4507042253521125,142
+26,"Võimekas juht võib olla nii naine kui mees. Loevad oskused, mitte sugu.",School location,Suurlinnad,217,0.9861751152073732,0.013824884792626729,0.0,3.912442396313364,217
+27,"Kokkama, koristama ja pesu pesema peavad koos elavad inimesed võrdselt, sõltumata soost.",School location,Suurlinnad,217,0.9539170506912442,0.03225806451612903,0.013824884792626729,3.7429906542056073,214
+28,"Nõusolek on see, kui ma ütlen „jah”, mitte see, kui ma ei öelnud „ei”.",School location,Suurlinnad,217,0.9493087557603687,0.027649769585253458,0.02304147465437788,3.839622641509434,212
+29,Laste saamine on iga täiskasvanud kodaniku vastutus oma rahvuse säilimise nimel.,School location,Suurlinnad,217,0.2073732718894009,0.6497695852534562,0.1382488479262673,1.924731182795699,186
+30,Keskkonnahoid on mulle olulisem kui majanduskasv.,School location,Suurlinnad,217,0.5391705069124424,0.1935483870967742,0.2672811059907834,2.830188679245283,159
+31,Eesti tegeleb kliimakriisi leevendamisega piisavalt.,School location,Suurlinnad,217,0.2903225806451613,0.3640552995391705,0.3456221198156682,2.4295774647887325,142
+32,Jalakäijate turvalisuse huvides võiks olla linnades autode kiiruspiirang 30 km/h.,School location,Suurlinnad,217,0.1336405529953917,0.7235023041474654,0.14285714285714285,1.7956989247311828,186
+33,Linnades võiks olla rohkem puid ja põõsaid.,School location,Suurlinnad,217,0.9216589861751152,0.027649769585253458,0.05069124423963134,3.495145631067961,206
+34,Eestis on igas maakonnas ja linnas võimalik täisväärtuslikku elu elada.,School location,Suurlinnad,217,0.3548387096774194,0.5069124423963134,0.1382488479262673,2.379679144385027,187
+35,Olen valmis vajadusel Eesti kaitsmiseks relva haarama.,School location,Suurlinnad,217,0.4009216589861751,0.391705069124424,0.1889400921658986,2.5232558139534884,172
+36,Mul on kindel seisukoht Ukraina-Venemaa sõjas.,School location,Suurlinnad,217,0.8894009216589862,0.03225806451612903,0.07373271889400922,3.73,200
+37,Mul on kindel seisukoht Iisraeli-Palestiina konfliktis.,School location,Suurlinnad,217,0.5714285714285714,0.15668202764976957,0.2626728110599078,3.151898734177215,158
+38,Romantiline suhe on minu jaoks oluline osa elust.,School location,Suurlinnad,217,0.7373271889400922,0.17511520737327188,0.07373271889400922,3.095959595959596,198
+39,Näen abiellumist olulise ja loomuliku osana oma tulevikust.,School location,Suurlinnad,217,0.5668202764976958,0.2534562211981567,0.17972350230414746,2.9101123595505616,178
+40,Soovin kindlasti tulevikus saada lapsi.,School location,Suurlinnad,217,0.6221198156682027,0.18433179723502305,0.1935483870967742,3.097142857142857,175
+41,Tahaks tulevikus pigem koera või kassi kui last.,School location,Suurlinnad,217,0.2764976958525346,0.5345622119815668,0.1889400921658986,2.1875,176
+42,"Minu jaoks on tulevikus oluline just Eesti riigis oma pere luua, mitte välismaal.",School location,Suurlinnad,217,0.4377880184331797,0.2764976958525346,0.2857142857142857,2.696774193548387,155
+43,Minu jaoks on üürikorteris elada sama hea kui endale (pangalaenuga) ostetud kodus.,School location,Suurlinnad,217,0.14746543778801843,0.6267281105990783,0.22580645161290322,1.9464285714285714,168
+44,Kavatsen elada ema ja/või isaga koos nii kaua kui võimalik.,School location,Suurlinnad,217,0.15207373271889402,0.6866359447004609,0.15207373271889402,1.8131868131868132,182
+45,Tahan tulevikus pigem üksinda elada.,School location,Suurlinnad,217,0.5345622119815668,0.29493087557603687,0.17050691244239632,2.727777777777778,180
+46,Elaksin tulevikus meelsasti koos sõpradega.,School location,Suurlinnad,217,0.5852534562211982,0.2857142857142857,0.12442396313364056,2.7830687830687832,189
+47,Mul peaks olema tulevikus isiklik sõiduauto.,School location,Suurlinnad,217,0.7649769585253456,0.16589861751152074,0.06451612903225806,3.3217821782178216,202
+48,Näen end tulevikus elamas väljaspool Eesti suuremaid linnasid.,School location,Suurlinnad,217,0.35023041474654376,0.391705069124424,0.25806451612903225,2.3975155279503104,161
+49,Näen end tulevikus elamas maapiirkonnas.,School location,Suurlinnad,217,0.3271889400921659,0.4700460829493088,0.19815668202764977,2.2716763005780347,173
+50,Näen end tulevikus elamas välismaal.,School location,Suurlinnad,217,0.45622119815668205,0.271889400921659,0.271889400921659,2.6962025316455698,158
+51,"Minu jaoks on kõige olulisem selline koolide edetabel, mis näitab, kui õnnelikud on sealsed õpilased.",School location,Suurlinnad,217,0.4792626728110599,0.3548387096774194,0.16589861751152074,2.679558011049724,181
+52,Kutsekool on edasiõppimiseks sama hea valik kui kõrgkool.,School location,Suurlinnad,217,0.5668202764976958,0.23963133640552994,0.1889400921658986,2.9371428571428573,175
+53,Minu kooli õpetajad on targad ja inspireerivad.,School location,Suurlinnad,217,0.8433179723502304,0.09216589861751152,0.059907834101382486,3.3399014778325125,203
+54,Kujutan end ette üheksast viieni kontoris töötamas.,School location,Suurlinnad,217,0.1889400921658986,0.6221198156682027,0.1889400921658986,1.8636363636363635,176
+55,"Kujutan end ette tegemas üheksast viieni oskustööd (nt juuksur, ehitaja, elektrik).",School location,Suurlinnad,217,0.2073732718894009,0.6129032258064516,0.17511520737327188,1.9157303370786516,178
+56,Kodukontor ja paindlik tööaeg on elementaarne.,School location,Suurlinnad,217,0.7373271889400922,0.17972350230414746,0.08294930875576037,3.100502512562814,199
+57,Valin töö pigem palga kui kutsumuse järgi.,School location,Suurlinnad,217,0.2857142857142857,0.5668202764976958,0.14746543778801843,2.1783783783783783,185
+59,Alkohol on sama ohtlik kui enamik narkootikume.,School location,Suurlinnad,217,0.5345622119815668,0.35944700460829493,0.10599078341013825,2.783505154639175,194
+60,Narkootikumide tarvitamine on noorte seas tavaline.,School location,Suurlinnad,217,0.4377880184331797,0.39631336405529954,0.16129032258064516,2.5801104972375692,181
+61,Alkoholi joomine on noorte seas tavaline.,School location,Suurlinnad,217,0.9493087557603687,0.02304147465437788,0.02304147465437788,3.5924170616113744,211
+62,Olen tundnud puudust vaimse tervise abist.,School location,Suurlinnad,217,0.3870967741935484,0.5207373271889401,0.08755760368663594,2.3197969543147208,197
+63,"Pean oluliseks, et kõik inimesed vaktsineeriksid ennast, et vanad haigused ei tuleks tagasi.",School location,Suurlinnad,217,0.8387096774193549,0.06451612903225806,0.08755760368663594,3.510204081632653,196
+64,Noortel on keeruline paarisuhteid luua.,School location,Suurlinnad,217,0.48847926267281105,0.2995391705069124,0.2119815668202765,2.7777777777777777,171
+65,Üheöösuhted on noorte seas tavalised.,School location,Suurlinnad,217,0.34101382488479265,0.29493087557603687,0.3640552995391705,2.5579710144927534,138
+66,Enamik noori leiab partneri mõnest kohtinguäpist.,School location,Suurlinnad,217,0.17050691244239632,0.41935483870967744,0.41013824884792627,2.1640625,128
+67,Mind on seksuaalselt ahistatud täisealise poolt.,School location,Suurlinnad,217,0.17511520737327188,0.7465437788018433,0.05069124423963134,1.575,200
+1,"Tulevik tundub mulle äge, ootan seda põnevusega!",School location,Väikelinnad/maakohad,176,0.7386363636363636,0.125,0.13636363636363635,3.210526315789474,152
+2,Tulevik hirmutab mind,School location,Väikelinnad/maakohad,176,0.7727272727272727,0.14204545454545456,0.07954545454545454,3.217391304347826,161
+3,"Tahaksin, et võiksin kooli lõpetamisele minna suvalistes riietes",School location,Väikelinnad/maakohad,176,0.1534090909090909,0.7784090909090909,0.06818181818181818,1.7134146341463414,164
+4,Ma tunnen end nüüd täiskasvanuna,School location,Väikelinnad/maakohad,176,0.3181818181818182,0.44886363636363635,0.23295454545454544,2.3407407407407406,135
+5,Vanemad inimesed on noortest igas asjas targemad.,School location,Väikelinnad/maakohad,176,0.045454545454545456,0.8863636363636364,0.06818181818181818,1.6585365853658536,164
+6,"Mul on kõrini sellest, et kõik küsivad, mida ma pärast lõpetamist edasi teen.",School location,Väikelinnad/maakohad,176,0.7102272727272727,0.20454545454545456,0.07954545454545454,3.2422360248447206,161
+7,"Mul pole õrna aimugi, kelleks ma tahan saada.",School location,Väikelinnad/maakohad,176,0.5056818181818182,0.4147727272727273,0.07954545454545454,2.654320987654321,162
+8,Tegin enamiku kodutöid tehisaruga.,School location,Väikelinnad/maakohad,176,0.2897727272727273,0.6193181818181818,0.07954545454545454,2.10625,160
+9,"Olen teeselnud tunnis, et sain õpetajast/tunni teemast aru",School location,Väikelinnad/maakohad,176,0.7215909090909091,0.21022727272727273,0.0625,3.0792682926829267,164
+10,"Mõtlen pärast lõpetamist võtta vaheaasta, et töötada või puhata.",School location,Väikelinnad/maakohad,176,0.17613636363636365,0.5795454545454546,0.24431818181818182,1.894736842105263,133
+12,Eestis tühistatakse inimesi liiga kergekäeliselt.,School location,Väikelinnad/maakohad,176,0.24431818181818182,0.26704545454545453,0.48295454545454547,2.466666666666667,90
+13,Tahan nüüd endale tätoveeringu teha lasta.,School location,Väikelinnad/maakohad,176,0.4375,0.42045454545454547,0.14204545454545456,2.5298013245033113,151
+14,Armastan käia metsas.,School location,Väikelinnad/maakohad,176,0.8238636363636364,0.10227272727272728,0.07386363636363637,3.361963190184049,163
+15,Armastan käia seenel.,School location,Väikelinnad/maakohad,176,0.42045454545454547,0.4431818181818182,0.13636363636363635,2.4802631578947367,152
+16,Mulle meeldib käia pidudel.,School location,Väikelinnad/maakohad,176,0.6704545454545454,0.26136363636363635,0.06818181818181818,2.951219512195122,164
+17,Mulle meeldib teha sporti.,School location,Väikelinnad/maakohad,176,0.7670454545454546,0.13068181818181818,0.10227272727272728,3.2468354430379747,158
+18,Ma hakkan gümnaasiumis käimist taga igatsema.,School location,Väikelinnad/maakohad,176,0.48863636363636365,0.2556818181818182,0.2556818181818182,2.7938931297709924,131
+19,Poliitikud tunduvad mulle äärmiselt usaldusväärsed ja targad inimesed.,School location,Väikelinnad/maakohad,176,0.017045454545454544,0.9147727272727273,0.06818181818181818,1.6524390243902438,164
+20,Eesti on salliv riik eri rahvuste suhtes.,School location,Väikelinnad/maakohad,176,0.36363636363636365,0.45454545454545453,0.18181818181818182,2.3819444444444446,144
+21,Eesti on salliv riik seksuaalvähemuste suhtes.,School location,Väikelinnad/maakohad,176,0.19318181818181818,0.5284090909090909,0.2727272727272727,2.1023622047244093,127
+22,Eesti võiks olla konservatiivsem.,School location,Väikelinnad/maakohad,176,0.17045454545454544,0.4659090909090909,0.3522727272727273,1.9464285714285714,112
+23,"Olen uhke, et olen eestlane.",School location,Väikelinnad/maakohad,176,0.8352272727272727,0.0625,0.10227272727272728,3.3987341772151898,158
+24,"Pean loomulikuks, et inimene võib ise määratleda, mis soost ta on.",School location,Väikelinnad/maakohad,176,0.42613636363636365,0.375,0.18181818181818182,2.617021276595745,141
+25,Eestis peaks olema rohkem unisex-WC-sid.,School location,Väikelinnad/maakohad,176,0.24431818181818182,0.4602272727272727,0.29545454545454547,2.129032258064516,124
+26,"Võimekas juht võib olla nii naine kui mees. Loevad oskused, mitte sugu.",School location,Väikelinnad/maakohad,176,0.9772727272727273,0.011363636363636364,0.005681818181818182,3.925287356321839,174
+27,"Kokkama, koristama ja pesu pesema peavad koos elavad inimesed võrdselt, sõltumata soost.",School location,Väikelinnad/maakohad,176,0.8977272727272727,0.022727272727272728,0.07954545454545454,3.7901234567901234,162
+28,"Nõusolek on see, kui ma ütlen „jah”, mitte see, kui ma ei öelnud „ei”.",School location,Väikelinnad/maakohad,176,0.9545454545454546,0.011363636363636364,0.03409090909090909,3.7823529411764705,170
+29,Laste saamine on iga täiskasvanud kodaniku vastutus oma rahvuse säilimise nimel.,School location,Väikelinnad/maakohad,176,0.23295454545454544,0.5568181818181818,0.20454545454545456,2.0431654676258995,139
+30,Keskkonnahoid on mulle olulisem kui majanduskasv.,School location,Väikelinnad/maakohad,176,0.42613636363636365,0.1875,0.3806818181818182,2.8703703703703702,108
+31,Eesti tegeleb kliimakriisi leevendamisega piisavalt.,School location,Väikelinnad/maakohad,176,0.21022727272727273,0.38636363636363635,0.4034090909090909,2.380952380952381,105
+32,Jalakäijate turvalisuse huvides võiks olla linnades autode kiiruspiirang 30 km/h.,School location,Väikelinnad/maakohad,176,0.13068181818181818,0.7329545454545454,0.13636363636363635,1.855263157894737,152
+33,Linnades võiks olla rohkem puid ja põõsaid.,School location,Väikelinnad/maakohad,176,0.9147727272727273,0.028409090909090908,0.056818181818181816,3.5240963855421685,166
+34,Eestis on igas maakonnas ja linnas võimalik täisväärtuslikku elu elada.,School location,Väikelinnad/maakohad,176,0.32954545454545453,0.4715909090909091,0.19886363636363635,2.354609929078014,141
+35,Olen valmis vajadusel Eesti kaitsmiseks relva haarama.,School location,Väikelinnad/maakohad,176,0.30113636363636365,0.4090909090909091,0.2840909090909091,2.384,125
+36,Mul on kindel seisukoht Ukraina-Venemaa sõjas.,School location,Väikelinnad/maakohad,176,0.7784090909090909,0.056818181818181816,0.14772727272727273,3.45578231292517,147
+37,Mul on kindel seisukoht Iisraeli-Palestiina konfliktis.,School location,Väikelinnad/maakohad,176,0.4034090909090909,0.13636363636363635,0.44886363636363635,3.0105263157894737,95
+38,Romantiline suhe on minu jaoks oluline osa elust.,School location,Väikelinnad/maakohad,176,0.8181818181818182,0.11363636363636363,0.06818181818181818,3.341463414634146,164
+39,Näen abiellumist olulise ja loomuliku osana oma tulevikust.,School location,Väikelinnad/maakohad,176,0.6079545454545454,0.25,0.14204545454545456,2.9072847682119205,151
+40,Soovin kindlasti tulevikus saada lapsi.,School location,Väikelinnad/maakohad,176,0.625,0.18181818181818182,0.1875,3.084507042253521,142
+41,Tahaks tulevikus pigem koera või kassi kui last.,School location,Väikelinnad/maakohad,176,0.3409090909090909,0.42613636363636365,0.23295454545454544,2.5037037037037035,135
+42,"Minu jaoks on tulevikus oluline just Eesti riigis oma pere luua, mitte välismaal.",School location,Väikelinnad/maakohad,176,0.32954545454545453,0.35795454545454547,0.3125,2.512396694214876,121
+43,Minu jaoks on üürikorteris elada sama hea kui endale (pangalaenuga) ostetud kodus.,School location,Väikelinnad/maakohad,176,0.19886363636363635,0.5056818181818182,0.29545454545454547,2.064516129032258,124
+44,Kavatsen elada ema ja/või isaga koos nii kaua kui võimalik.,School location,Väikelinnad/maakohad,176,0.14204545454545456,0.6988636363636364,0.1590909090909091,1.8310810810810811,148
+45,Tahan tulevikus pigem üksinda elada.,School location,Väikelinnad/maakohad,176,0.3977272727272727,0.4034090909090909,0.19886363636363635,2.5390070921985815,141
+46,Elaksin tulevikus meelsasti koos sõpradega.,School location,Väikelinnad/maakohad,176,0.44886363636363635,0.3409090909090909,0.21022727272727273,2.5755395683453237,139
+47,Mul peaks olema tulevikus isiklik sõiduauto.,School location,Väikelinnad/maakohad,176,0.8238636363636364,0.11363636363636363,0.0625,3.4242424242424243,165
+48,Näen end tulevikus elamas väljaspool Eesti suuremaid linnasid.,School location,Väikelinnad/maakohad,176,0.5227272727272727,0.20454545454545456,0.2727272727272727,2.9375,128
+49,Näen end tulevikus elamas maapiirkonnas.,School location,Väikelinnad/maakohad,176,0.5113636363636364,0.2159090909090909,0.2727272727272727,2.875,128
+50,Näen end tulevikus elamas välismaal.,School location,Väikelinnad/maakohad,176,0.4772727272727273,0.21022727272727273,0.3125,2.8181818181818183,121
+51,"Minu jaoks on kõige olulisem selline koolide edetabel, mis näitab, kui õnnelikud on sealsed õpilased.",School location,Väikelinnad/maakohad,176,0.6363636363636364,0.16477272727272727,0.19318181818181818,3.00709219858156,141
+52,Kutsekool on edasiõppimiseks sama hea valik kui kõrgkool.,School location,Väikelinnad/maakohad,176,0.6647727272727273,0.24431818181818182,0.09090909090909091,2.96875,160
+53,Minu kooli õpetajad on targad ja inspireerivad.,School location,Väikelinnad/maakohad,176,0.7329545454545454,0.10795454545454546,0.14772727272727273,3.141891891891892,148
+54,Kujutan end ette üheksast viieni kontoris töötamas.,School location,Väikelinnad/maakohad,176,0.10795454545454546,0.7215909090909091,0.17045454545454544,1.6986301369863013,146
+55,"Kujutan end ette tegemas üheksast viieni oskustööd (nt juuksur, ehitaja, elektrik).",School location,Väikelinnad/maakohad,176,0.3181818181818182,0.4772727272727273,0.20454545454545456,2.242857142857143,140
+56,Kodukontor ja paindlik tööaeg on elementaarne.,School location,Väikelinnad/maakohad,176,0.8011363636363636,0.0625,0.13636363636363635,3.289473684210526,152
+57,Valin töö pigem palga kui kutsumuse järgi.,School location,Väikelinnad/maakohad,176,0.3409090909090909,0.45454545454545453,0.20454545454545456,2.35,140
+59,Alkohol on sama ohtlik kui enamik narkootikume.,School location,Väikelinnad/maakohad,176,0.5965909090909091,0.3068181818181818,0.09659090909090909,2.911949685534591,159
+60,Narkootikumide tarvitamine on noorte seas tavaline.,School location,Väikelinnad/maakohad,176,0.4659090909090909,0.22727272727272727,0.30113636363636365,2.7049180327868854,122
+61,Alkoholi joomine on noorte seas tavaline.,School location,Väikelinnad/maakohad,176,0.9545454545454546,0.028409090909090908,0.017045454545454544,3.53757225433526,173
+62,Olen tundnud puudust vaimse tervise abist.,School location,Väikelinnad/maakohad,176,0.4943181818181818,0.3352272727272727,0.16477272727272727,2.719178082191781,146
+63,"Pean oluliseks, et kõik inimesed vaktsineeriksid ennast, et vanad haigused ei tuleks tagasi.",School location,Väikelinnad/maakohad,176,0.6590909090909091,0.11363636363636363,0.21022727272727273,3.2794117647058822,136
+64,Noortel on keeruline paarisuhteid luua.,School location,Väikelinnad/maakohad,176,0.48863636363636365,0.30113636363636365,0.21022727272727273,2.7338129496402876,139
+65,Üheöösuhted on noorte seas tavalised.,School location,Väikelinnad/maakohad,176,0.32954545454545453,0.25,0.42045454545454547,2.6176470588235294,102
+66,Enamik noori leiab partneri mõnest kohtinguäpist.,School location,Väikelinnad/maakohad,176,0.2727272727272727,0.32954545454545453,0.3977272727272727,2.4716981132075473,106
+67,Mind on seksuaalselt ahistatud täisealise poolt.,School location,Väikelinnad/maakohad,176,0.14772727272727273,0.7670454545454546,0.05113636363636364,1.4906832298136645,161
+1,"Tulevik tundub mulle äge, ootan seda põnevusega!",Gender,Ei soovi avaldada,4,0.5,0.0,0.5,3.5,2
+2,Tulevik hirmutab mind,Gender,Ei soovi avaldada,4,0.75,0.25,0.0,2.75,4
+3,"Tahaksin, et võiksin kooli lõpetamisele minna suvalistes riietes",Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.3333333333333335,3
+4,Ma tunnen end nüüd täiskasvanuna,Gender,Ei soovi avaldada,4,0.5,0.25,0.25,2.6666666666666665,3
+5,Vanemad inimesed on noortest igas asjas targemad.,Gender,Ei soovi avaldada,4,0.0,1.0,0.0,1.75,4
+6,"Mul on kõrini sellest, et kõik küsivad, mida ma pärast lõpetamist edasi teen.",Gender,Ei soovi avaldada,4,0.5,0.25,0.25,3.0,3
+7,"Mul pole õrna aimugi, kelleks ma tahan saada.",Gender,Ei soovi avaldada,4,0.5,0.5,0.0,2.5,4
+8,Tegin enamiku kodutöid tehisaruga.,Gender,Ei soovi avaldada,4,0.0,1.0,0.0,1.25,4
+9,"Olen teeselnud tunnis, et sain õpetajast/tunni teemast aru",Gender,Ei soovi avaldada,4,0.5,0.5,0.0,2.5,4
+10,"Mõtlen pärast lõpetamist võtta vaheaasta, et töötada või puhata.",Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.0,3
+12,Eestis tühistatakse inimesi liiga kergekäeliselt.,Gender,Ei soovi avaldada,4,0.25,0.25,0.5,3.0,2
+13,Tahan nüüd endale tätoveeringu teha lasta.,Gender,Ei soovi avaldada,4,0.75,0.0,0.25,3.6666666666666665,3
+14,Armastan käia metsas.,Gender,Ei soovi avaldada,4,1.0,0.0,0.0,3.75,4
+15,Armastan käia seenel.,Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.6666666666666665,3
+16,Mulle meeldib käia pidudel.,Gender,Ei soovi avaldada,4,0.5,0.5,0.0,2.25,4
+17,Mulle meeldib teha sporti.,Gender,Ei soovi avaldada,4,0.5,0.25,0.25,3.0,3
+18,Ma hakkan gümnaasiumis käimist taga igatsema.,Gender,Ei soovi avaldada,4,0.75,0.25,0.0,3.0,4
+19,Poliitikud tunduvad mulle äärmiselt usaldusväärsed ja targad inimesed.,Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.3333333333333335,3
+20,Eesti on salliv riik eri rahvuste suhtes.,Gender,Ei soovi avaldada,4,0.5,0.5,0.0,2.5,4
+21,Eesti on salliv riik seksuaalvähemuste suhtes.,Gender,Ei soovi avaldada,4,0.0,0.75,0.0,2.0,3
+22,Eesti võiks olla konservatiivsem.,Gender,Ei soovi avaldada,4,0.0,0.75,0.25,1.3333333333333333,3
+23,"Olen uhke, et olen eestlane.",Gender,Ei soovi avaldada,4,0.75,0.25,0.0,3.0,4
+24,"Pean loomulikuks, et inimene võib ise määratleda, mis soost ta on.",Gender,Ei soovi avaldada,4,0.75,0.25,0.0,3.25,4
+25,Eestis peaks olema rohkem unisex-WC-sid.,Gender,Ei soovi avaldada,4,0.75,0.0,0.25,3.3333333333333335,3
+26,"Võimekas juht võib olla nii naine kui mees. Loevad oskused, mitte sugu.",Gender,Ei soovi avaldada,4,1.0,0.0,0.0,4.0,4
+27,"Kokkama, koristama ja pesu pesema peavad koos elavad inimesed võrdselt, sõltumata soost.",Gender,Ei soovi avaldada,4,0.75,0.25,0.0,3.5,4
+28,"Nõusolek on see, kui ma ütlen „jah”, mitte see, kui ma ei öelnud „ei”.",Gender,Ei soovi avaldada,4,1.0,0.0,0.0,4.0,4
+29,Laste saamine on iga täiskasvanud kodaniku vastutus oma rahvuse säilimise nimel.,Gender,Ei soovi avaldada,4,0.0,0.75,0.25,1.6666666666666667,3
+30,Keskkonnahoid on mulle olulisem kui majanduskasv.,Gender,Ei soovi avaldada,4,0.5,0.0,0.5,3.0,2
+31,Eesti tegeleb kliimakriisi leevendamisega piisavalt.,Gender,Ei soovi avaldada,4,0.25,0.75,0.0,2.0,4
+32,Jalakäijate turvalisuse huvides võiks olla linnades autode kiiruspiirang 30 km/h.,Gender,Ei soovi avaldada,4,0.0,0.5,0.5,2.0,2
+33,Linnades võiks olla rohkem puid ja põõsaid.,Gender,Ei soovi avaldada,4,1.0,0.0,0.0,3.5,4
+34,Eestis on igas maakonnas ja linnas võimalik täisväärtuslikku elu elada.,Gender,Ei soovi avaldada,4,0.25,0.75,0.0,2.25,4
+35,Olen valmis vajadusel Eesti kaitsmiseks relva haarama.,Gender,Ei soovi avaldada,4,0.0,0.25,0.75,2.0,1
+36,Mul on kindel seisukoht Ukraina-Venemaa sõjas.,Gender,Ei soovi avaldada,4,1.0,0.0,0.0,3.75,4
+37,Mul on kindel seisukoht Iisraeli-Palestiina konfliktis.,Gender,Ei soovi avaldada,4,0.5,0.5,0.0,3.0,4
+38,Romantiline suhe on minu jaoks oluline osa elust.,Gender,Ei soovi avaldada,4,0.5,0.5,0.0,2.5,4
+39,Näen abiellumist olulise ja loomuliku osana oma tulevikust.,Gender,Ei soovi avaldada,4,0.25,0.75,0.0,2.0,4
+40,Soovin kindlasti tulevikus saada lapsi.,Gender,Ei soovi avaldada,4,0.5,0.25,0.25,3.0,3
+41,Tahaks tulevikus pigem koera või kassi kui last.,Gender,Ei soovi avaldada,4,0.75,0.25,0.0,3.0,4
+42,"Minu jaoks on tulevikus oluline just Eesti riigis oma pere luua, mitte välismaal.",Gender,Ei soovi avaldada,4,0.25,0.5,0.25,1.6666666666666667,3
+43,Minu jaoks on üürikorteris elada sama hea kui endale (pangalaenuga) ostetud kodus.,Gender,Ei soovi avaldada,4,0.5,0.25,0.25,2.6666666666666665,3
+44,Kavatsen elada ema ja/või isaga koos nii kaua kui võimalik.,Gender,Ei soovi avaldada,4,0.0,0.75,0.25,1.6666666666666667,3
+45,Tahan tulevikus pigem üksinda elada.,Gender,Ei soovi avaldada,4,0.75,0.0,0.25,3.3333333333333335,3
+46,Elaksin tulevikus meelsasti koos sõpradega.,Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.3333333333333335,3
+47,Mul peaks olema tulevikus isiklik sõiduauto.,Gender,Ei soovi avaldada,4,0.25,0.25,0.5,2.5,2
+48,Näen end tulevikus elamas väljaspool Eesti suuremaid linnasid.,Gender,Ei soovi avaldada,4,0.25,0.25,0.5,2.5,2
+49,Näen end tulevikus elamas maapiirkonnas.,Gender,Ei soovi avaldada,4,0.25,0.75,0.0,2.25,4
+50,Näen end tulevikus elamas välismaal.,Gender,Ei soovi avaldada,4,0.75,0.0,0.25,3.3333333333333335,3
+51,"Minu jaoks on kõige olulisem selline koolide edetabel, mis näitab, kui õnnelikud on sealsed õpilased.",Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.3333333333333335,3
+52,Kutsekool on edasiõppimiseks sama hea valik kui kõrgkool.,Gender,Ei soovi avaldada,4,0.75,0.25,0.0,2.75,4
+53,Minu kooli õpetajad on targad ja inspireerivad.,Gender,Ei soovi avaldada,4,0.75,0.0,0.25,3.6666666666666665,3
+54,Kujutan end ette üheksast viieni kontoris töötamas.,Gender,Ei soovi avaldada,4,0.5,0.25,0.25,3.0,3
+55,"Kujutan end ette tegemas üheksast viieni oskustööd (nt juuksur, ehitaja, elektrik).",Gender,Ei soovi avaldada,4,0.25,0.25,0.5,2.5,2
+56,Kodukontor ja paindlik tööaeg on elementaarne.,Gender,Ei soovi avaldada,4,1.0,0.0,0.0,3.25,4
+57,Valin töö pigem palga kui kutsumuse järgi.,Gender,Ei soovi avaldada,4,0.5,0.25,0.25,2.6666666666666665,3
+59,Alkohol on sama ohtlik kui enamik narkootikume.,Gender,Ei soovi avaldada,4,0.5,0.5,0.0,2.25,4
+60,Narkootikumide tarvitamine on noorte seas tavaline.,Gender,Ei soovi avaldada,4,0.5,0.0,0.5,3.0,2
+61,Alkoholi joomine on noorte seas tavaline.,Gender,Ei soovi avaldada,4,0.75,0.25,0.0,2.75,4
+62,Olen tundnud puudust vaimse tervise abist.,Gender,Ei soovi avaldada,4,0.75,0.25,0.0,2.75,4
+63,"Pean oluliseks, et kõik inimesed vaktsineeriksid ennast, et vanad haigused ei tuleks tagasi.",Gender,Ei soovi avaldada,4,0.75,0.25,0.0,3.25,4
+64,Noortel on keeruline paarisuhteid luua.,Gender,Ei soovi avaldada,4,0.25,0.25,0.5,2.5,2
+65,Üheöösuhted on noorte seas tavalised.,Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.3333333333333335,3
+66,Enamik noori leiab partneri mõnest kohtinguäpist.,Gender,Ei soovi avaldada,4,0.25,0.25,0.5,2.5,2
+67,Mind on seksuaalselt ahistatud täisealise poolt.,Gender,Ei soovi avaldada,4,0.25,0.5,0.25,2.3333333333333335,3
+1,"Tulevik tundub mulle äge, ootan seda põnevusega!",Gender,Mees,96,0.8541666666666666,0.052083333333333336,0.09375,3.3793103448275863,87
+2,Tulevik hirmutab mind,Gender,Mees,96,0.5520833333333334,0.3333333333333333,0.11458333333333333,2.7411764705882353,85
+3,"Tahaksin, et võiksin kooli lõpetamisele minna suvalistes riietes",Gender,Mees,96,0.14583333333333334,0.7916666666666666,0.052083333333333336,1.7555555555555555,90
+4,Ma tunnen end nüüd täiskasvanuna,Gender,Mees,96,0.40625,0.375,0.21875,2.5733333333333333,75
+5,Vanemad inimesed on noortest igas asjas targemad.,Gender,Mees,96,0.10416666666666667,0.8645833333333334,0.03125,1.6451612903225807,93
+6,"Mul on kõrini sellest, et kõik küsivad, mida ma pärast lõpetamist edasi teen.",Gender,Mees,96,0.53125,0.375,0.09375,2.7126436781609193,87
+7,"Mul pole õrna aimugi, kelleks ma tahan saada.",Gender,Mees,96,0.2708333333333333,0.6458333333333334,0.08333333333333333,2.1818181818181817,88
+8,Tegin enamiku kodutöid tehisaruga.,Gender,Mees,96,0.23958333333333334,0.6979166666666666,0.0625,1.9555555555555555,90
+9,"Olen teeselnud tunnis, et sain õpetajast/tunni teemast aru",Gender,Mees,96,0.6458333333333334,0.28125,0.0625,2.764044943820225,89
+10,"Mõtlen pärast lõpetamist võtta vaheaasta, et töötada või puhata.",Gender,Mees,96,0.10416666666666667,0.7291666666666666,0.16666666666666666,1.5125,80
+12,Eestis tühistatakse inimesi liiga kergekäeliselt.,Gender,Mees,96,0.16666666666666666,0.28125,0.5416666666666666,2.2790697674418605,43
+13,Tahan nüüd endale tätoveeringu teha lasta.,Gender,Mees,96,0.2708333333333333,0.6770833333333334,0.052083333333333336,1.9230769230769231,91
+14,Armastan käia metsas.,Gender,Mees,96,0.8020833333333334,0.10416666666666667,0.09375,3.2988505747126435,87
+15,Armastan käia seenel.,Gender,Mees,96,0.40625,0.4583333333333333,0.13541666666666666,2.36144578313253,83
+16,Mulle meeldib käia pidudel.,Gender,Mees,96,0.59375,0.3020833333333333,0.10416666666666667,2.8488372093023258,86
+17,Mulle meeldib teha sporti.,Gender,Mees,96,0.8854166666666666,0.0625,0.052083333333333336,3.5274725274725274,91
+18,Ma hakkan gümnaasiumis käimist taga igatsema.,Gender,Mees,96,0.5416666666666666,0.22916666666666666,0.22916666666666666,2.864864864864865,74
+19,Poliitikud tunduvad mulle äärmiselt usaldusväärsed ja targad inimesed.,Gender,Mees,96,0.020833333333333332,0.8541666666666666,0.125,1.6904761904761905,84
+20,Eesti on salliv riik eri rahvuste suhtes.,Gender,Mees,96,0.4895833333333333,0.34375,0.16666666666666666,2.575,80
+21,Eesti on salliv riik seksuaalvähemuste suhtes.,Gender,Mees,96,0.3125,0.4270833333333333,0.2604166666666667,2.380281690140845,71
+22,Eesti võiks olla konservatiivsem.,Gender,Mees,96,0.3229166666666667,0.4375,0.22916666666666666,2.219178082191781,73
+23,"Olen uhke, et olen eestlane.",Gender,Mees,96,0.8541666666666666,0.09375,0.041666666666666664,3.5274725274725274,91
+24,"Pean loomulikuks, et inimene võib ise määratleda, mis soost ta on.",Gender,Mees,96,0.3958333333333333,0.4479166666666667,0.14583333333333334,2.4444444444444446,81
+25,Eestis peaks olema rohkem unisex-WC-sid.,Gender,Mees,96,0.25,0.4479166666666667,0.3020833333333333,2.208955223880597,67
+26,"Võimekas juht võib olla nii naine kui mees. Loevad oskused, mitte sugu.",Gender,Mees,96,0.9375,0.052083333333333336,0.010416666666666666,3.705263157894737,95
+27,"Kokkama, koristama ja pesu pesema peavad koos elavad inimesed võrdselt, sõltumata soost.",Gender,Mees,96,0.8229166666666666,0.07291666666666667,0.10416666666666667,3.546511627906977,86
+28,"Nõusolek on see, kui ma ütlen „jah”, mitte see, kui ma ei öelnud „ei”.",Gender,Mees,96,0.9375,0.03125,0.03125,3.6666666666666665,93
+29,Laste saamine on iga täiskasvanud kodaniku vastutus oma rahvuse säilimise nimel.,Gender,Mees,96,0.4479166666666667,0.40625,0.13541666666666666,2.451219512195122,82
+30,Keskkonnahoid on mulle olulisem kui majanduskasv.,Gender,Mees,96,0.375,0.3645833333333333,0.2604166666666667,2.4507042253521125,71
+31,Eesti tegeleb kliimakriisi leevendamisega piisavalt.,Gender,Mees,96,0.46875,0.3333333333333333,0.19791666666666666,2.6623376623376624,77
+32,Jalakäijate turvalisuse huvides võiks olla linnades autode kiiruspiirang 30 km/h.,Gender,Mees,96,0.13541666666666666,0.7708333333333334,0.09375,1.6896551724137931,87
+33,Linnades võiks olla rohkem puid ja põõsaid.,Gender,Mees,96,0.8854166666666666,0.07291666666666667,0.041666666666666664,3.4239130434782608,92
+34,Eestis on igas maakonnas ja linnas võimalik täisväärtuslikku elu elada.,Gender,Mees,96,0.3854166666666667,0.4270833333333333,0.1875,2.5,78
+35,Olen valmis vajadusel Eesti kaitsmiseks relva haarama.,Gender,Mees,96,0.4791666666666667,0.3125,0.19791666666666666,2.8026315789473686,76
+36,Mul on kindel seisukoht Ukraina-Venemaa sõjas.,Gender,Mees,96,0.8333333333333334,0.07291666666666667,0.08333333333333333,3.5632183908045976,87
+37,Mul on kindel seisukoht Iisraeli-Palestiina konfliktis.,Gender,Mees,96,0.5729166666666666,0.20833333333333334,0.21875,3.026666666666667,75
+38,Romantiline suhe on minu jaoks oluline osa elust.,Gender,Mees,96,0.8020833333333334,0.13541666666666666,0.0625,3.2444444444444445,90
+39,Näen abiellumist olulise ja loomuliku osana oma tulevikust.,Gender,Mees,96,0.6354166666666666,0.1875,0.17708333333333334,3.1139240506329116,79
+40,Soovin kindlasti tulevikus saada lapsi.,Gender,Mees,96,0.7395833333333334,0.10416666666666667,0.15625,3.3580246913580245,81
+41,Tahaks tulevikus pigem koera või kassi kui last.,Gender,Mees,96,0.16666666666666666,0.65625,0.17708333333333334,1.8734177215189873,79
+42,"Minu jaoks on tulevikus oluline just Eesti riigis oma pere luua, mitte välismaal.",Gender,Mees,96,0.4479166666666667,0.3020833333333333,0.25,2.6944444444444446,72
+43,Minu jaoks on üürikorteris elada sama hea kui endale (pangalaenuga) ostetud kodus.,Gender,Mees,96,0.13541666666666666,0.7083333333333334,0.15625,1.8518518518518519,81
+44,Kavatsen elada ema ja/või isaga koos nii kaua kui võimalik.,Gender,Mees,96,0.125,0.6770833333333334,0.19791666666666666,1.7272727272727273,77
+45,Tahan tulevikus pigem üksinda elada.,Gender,Mees,96,0.3958333333333333,0.4479166666666667,0.15625,2.4814814814814814,81
+46,Elaksin tulevikus meelsasti koos sõpradega.,Gender,Mees,96,0.4583333333333333,0.40625,0.13541666666666666,2.5060240963855422,83
+47,Mul peaks olema tulevikus isiklik sõiduauto.,Gender,Mees,96,0.8333333333333334,0.13541666666666666,0.03125,3.4301075268817205,93
+48,Näen end tulevikus elamas väljaspool Eesti suuremaid linnasid.,Gender,Mees,96,0.375,0.34375,0.28125,2.4927536231884058,69
+49,Näen end tulevikus elamas maapiirkonnas.,Gender,Mees,96,0.3958333333333333,0.3854166666666667,0.21875,2.453333333333333,75
+50,Näen end tulevikus elamas välismaal.,Gender,Mees,96,0.3958333333333333,0.3333333333333333,0.2708333333333333,2.5428571428571427,70
+51,"Minu jaoks on kõige olulisem selline koolide edetabel, mis näitab, kui õnnelikud on sealsed õpilased.",Gender,Mees,96,0.4583333333333333,0.375,0.16666666666666666,2.625,80
+52,Kutsekool on edasiõppimiseks sama hea valik kui kõrgkool.,Gender,Mees,96,0.53125,0.2708333333333333,0.19791666666666666,2.8701298701298703,77
+53,Minu kooli õpetajad on targad ja inspireerivad.,Gender,Mees,96,0.8645833333333334,0.07291666666666667,0.0625,3.2888888888888888,90
+54,Kujutan end ette üheksast viieni kontoris töötamas.,Gender,Mees,96,0.14583333333333334,0.65625,0.19791666666666666,1.8311688311688312,77
+55,"Kujutan end ette tegemas üheksast viieni oskustööd (nt juuksur, ehitaja, elektrik).",Gender,Mees,96,0.28125,0.5625,0.14583333333333334,2.0246913580246915,81
+56,Kodukontor ja paindlik tööaeg on elementaarne.,Gender,Mees,96,0.6666666666666666,0.21875,0.11458333333333333,3.0,85
+57,Valin töö pigem palga kui kutsumuse järgi.,Gender,Mees,96,0.3854166666666667,0.46875,0.14583333333333334,2.341463414634146,82
+59,Alkohol on sama ohtlik kui enamik narkootikume.,Gender,Mees,96,0.5729166666666666,0.3541666666666667,0.07291666666666667,2.8764044943820224,89
+60,Narkootikumide tarvitamine on noorte seas tavaline.,Gender,Mees,96,0.4895833333333333,0.2916666666666667,0.21875,2.6266666666666665,75
+61,Alkoholi joomine on noorte seas tavaline.,Gender,Mees,96,0.9166666666666666,0.041666666666666664,0.041666666666666664,3.4782608695652173,92
+62,Olen tundnud puudust vaimse tervise abist.,Gender,Mees,96,0.28125,0.59375,0.11458333333333333,2.107142857142857,84
+63,"Pean oluliseks, et kõik inimesed vaktsineeriksid ennast, et vanad haigused ei tuleks tagasi.",Gender,Mees,96,0.78125,0.09375,0.125,3.380952380952381,84
+64,Noortel on keeruline paarisuhteid luua.,Gender,Mees,96,0.4895833333333333,0.2916666666666667,0.21875,2.76,75
+65,Üheöösuhted on noorte seas tavalised.,Gender,Mees,96,0.28125,0.19791666666666666,0.5208333333333334,2.5869565217391304,46
+66,Enamik noori leiab partneri mõnest kohtinguäpist.,Gender,Mees,96,0.08333333333333333,0.3229166666666667,0.59375,2.0,39
+67,Mind on seksuaalselt ahistatud täisealise poolt.,Gender,Mees,96,0.03125,0.9479166666666666,0.020833333333333332,1.1595744680851063,94
+1,"Tulevik tundub mulle äge, ootan seda põnevusega!",Gender,Mittebinaarne,5,0.8,0.2,0.0,3.0,5
+2,Tulevik hirmutab mind,Gender,Mittebinaarne,5,0.8,0.2,0.0,3.2,5
+3,"Tahaksin, et võiksin kooli lõpetamisele minna suvalistes riietes",Gender,Mittebinaarne,5,0.0,1.0,0.0,1.8,5
+4,Ma tunnen end nüüd täiskasvanuna,Gender,Mittebinaarne,5,0.4,0.4,0.2,2.5,4
+5,Vanemad inimesed on noortest igas asjas targemad.,Gender,Mittebinaarne,5,0.0,1.0,0.0,1.4,5
+6,"Mul on kõrini sellest, et kõik küsivad, mida ma pärast lõpetamist edasi teen.",Gender,Mittebinaarne,5,0.6,0.2,0.2,3.25,4
+7,"Mul pole õrna aimugi, kelleks ma tahan saada.",Gender,Mittebinaarne,5,0.4,0.4,0.2,2.5,4
+8,Tegin enamiku kodutöid tehisaruga.,Gender,Mittebinaarne,5,0.2,0.8,0.0,1.6,5
+9,"Olen teeselnud tunnis, et sain õpetajast/tunni teemast aru",Gender,Mittebinaarne,5,0.8,0.0,0.2,3.75,4
+10,"Mõtlen pärast lõpetamist võtta vaheaasta, et töötada või puhata.",Gender,Mittebinaarne,5,0.0,0.6,0.4,2.0,3
+12,Eestis tühistatakse inimesi liiga kergekäeliselt.,Gender,Mittebinaarne,5,0.4,0.4,0.2,2.75,4
+13,Tahan nüüd endale tätoveeringu teha lasta.,Gender,Mittebinaarne,5,1.0,0.0,0.0,3.6,5
+14,Armastan käia metsas.,Gender,Mittebinaarne,5,1.0,0.0,0.0,3.6,5
+15,Armastan käia seenel.,Gender,Mittebinaarne,5,0.6,0.2,0.2,3.5,4
+16,Mulle meeldib käia pidudel.,Gender,Mittebinaarne,5,0.6,0.4,0.0,3.2,5
+17,Mulle meeldib teha sporti.,Gender,Mittebinaarne,5,0.6,0.0,0.2,3.6666666666666665,3
+18,Ma hakkan gümnaasiumis käimist taga igatsema.,Gender,Mittebinaarne,5,0.4,0.4,0.2,2.25,4
+19,Poliitikud tunduvad mulle äärmiselt usaldusväärsed ja targad inimesed.,Gender,Mittebinaarne,5,0.0,1.0,0.0,2.0,5
+20,Eesti on salliv riik eri rahvuste suhtes.,Gender,Mittebinaarne,5,0.4,0.6,0.0,2.0,5
+21,Eesti on salliv riik seksuaalvähemuste suhtes.,Gender,Mittebinaarne,5,0.4,0.6,0.0,2.2,5
+22,Eesti võiks olla konservatiivsem.,Gender,Mittebinaarne,5,0.0,0.8,0.2,1.0,4
+23,"Olen uhke, et olen eestlane.",Gender,Mittebinaarne,5,0.8,0.0,0.2,3.75,4
+24,"Pean loomulikuks, et inimene võib ise määratleda, mis soost ta on.",Gender,Mittebinaarne,5,0.8,0.2,0.0,3.2,5
+25,Eestis peaks olema rohkem unisex-WC-sid.,Gender,Mittebinaarne,5,0.6,0.2,0.2,2.75,4
+26,"Võimekas juht võib olla nii naine kui mees. Loevad oskused, mitte sugu.",Gender,Mittebinaarne,5,1.0,0.0,0.0,4.0,5
+27,"Kokkama, koristama ja pesu pesema peavad koos elavad inimesed võrdselt, sõltumata soost.",Gender,Mittebinaarne,5,1.0,0.0,0.0,3.8,5
+28,"Nõusolek on see, kui ma ütlen „jah”, mitte see, kui ma ei öelnud „ei”.",Gender,Mittebinaarne,5,1.0,0.0,0.0,4.0,5
+29,Laste saamine on iga täiskasvanud kodaniku vastutus oma rahvuse säilimise nimel.,Gender,Mittebinaarne,5,0.0,1.0,0.0,1.4,5
+30,Keskkonnahoid on mulle olulisem kui majanduskasv.,Gender,Mittebinaarne,5,0.6,0.2,0.2,3.25,4
+31,Eesti tegeleb kliimakriisi leevendamisega piisavalt.,Gender,Mittebinaarne,5,0.2,0.6,0.2,1.75,4
+32,Jalakäijate turvalisuse huvides võiks olla linnades autode kiiruspiirang 30 km/h.,Gender,Mittebinaarne,5,0.2,0.4,0.4,2.0,3
+33,Linnades võiks olla rohkem puid ja põõsaid.,Gender,Mittebinaarne,5,1.0,0.0,0.0,3.8,5
+34,Eestis on igas maakonnas ja linnas võimalik täisväärtuslikku elu elada.,Gender,Mittebinaarne,5,0.0,0.8,0.2,2.0,4
+35,Olen valmis vajadusel Eesti kaitsmiseks relva haarama.,Gender,Mittebinaarne,5,0.2,0.2,0.4,2.0,2
+36,Mul on kindel seisukoht Ukraina-Venemaa sõjas.,Gender,Mittebinaarne,5,1.0,0.0,0.0,3.8,5
+37,Mul on kindel seisukoht Iisraeli-Palestiina konfliktis.,Gender,Mittebinaarne,5,0.6,0.2,0.2,3.25,4
+38,Romantiline suhe on minu jaoks oluline osa elust.,Gender,Mittebinaarne,5,0.4,0.4,0.2,2.5,4
+39,Näen abiellumist olulise ja loomuliku osana oma tulevikust.,Gender,Mittebinaarne,5,0.0,0.8,0.2,1.5,4
+40,Soovin kindlasti tulevikus saada lapsi.,Gender,Mittebinaarne,5,0.2,0.2,0.6,2.0,2
+41,Tahaks tulevikus pigem koera või kassi kui last.,Gender,Mittebinaarne,5,0.4,0.2,0.4,3.0,3
+42,"Minu jaoks on tulevikus oluline just Eesti riigis oma pere luua, mitte välismaal.",Gender,Mittebinaarne,5,0.0,0.4,0.6,2.0,2
+43,Minu jaoks on üürikorteris elada sama hea kui endale (pangalaenuga) ostetud kodus.,Gender,Mittebinaarne,5,0.4,0.4,0.2,3.0,4
+44,Kavatsen elada ema ja/või isaga koos nii kaua kui võimalik.,Gender,Mittebinaarne,5,0.0,0.8,0.2,1.5,4
+45,Tahan tulevikus pigem üksinda elada.,Gender,Mittebinaarne,5,0.4,0.2,0.4,2.6666666666666665,3
+46,Elaksin tulevikus meelsasti koos sõpradega.,Gender,Mittebinaarne,5,1.0,0.0,0.0,3.4,5
+47,Mul peaks olema tulevikus isiklik sõiduauto.,Gender,Mittebinaarne,5,0.6,0.4,0.0,2.8,5
+48,Näen end tulevikus elamas väljaspool Eesti suuremaid linnasid.,Gender,Mittebinaarne,5,0.4,0.4,0.2,2.5,4
+49,Näen end tulevikus elamas maapiirkonnas.,Gender,Mittebinaarne,5,0.2,0.2,0.6,2.0,2
+50,Näen end tulevikus elamas välismaal.,Gender,Mittebinaarne,5,0.2,0.6,0.2,2.5,4
+51,"Minu jaoks on kõige olulisem selline koolide edetabel, mis näitab, kui õnnelikud on sealsed õpilased.",Gender,Mittebinaarne,5,0.8,0.0,0.2,3.25,4
+52,Kutsekool on edasiõppimiseks sama hea valik kui kõrgkool.,Gender,Mittebinaarne,5,1.0,0.0,0.0,3.8,5
+53,Minu kooli õpetajad on targad ja inspireerivad.,Gender,Mittebinaarne,5,0.8,0.0,0.2,3.75,4
+54,Kujutan end ette üheksast viieni kontoris töötamas.,Gender,Mittebinaarne,5,0.0,0.8,0.2,1.5,4
+55,"Kujutan end ette tegemas üheksast viieni oskustööd (nt juuksur, ehitaja, elektrik).",Gender,Mittebinaarne,5,0.2,0.2,0.6,2.5,2
+56,Kodukontor ja paindlik tööaeg on elementaarne.,Gender,Mittebinaarne,5,1.0,0.0,0.0,3.4,5
+57,Valin töö pigem palga kui kutsumuse järgi.,Gender,Mittebinaarne,5,0.0,0.8,0.2,1.25,4
+59,Alkohol on sama ohtlik kui enamik narkootikume.,Gender,Mittebinaarne,5,0.4,0.4,0.2,2.75,4
+60,Narkootikumide tarvitamine on noorte seas tavaline.,Gender,Mittebinaarne,5,0.8,0.0,0.2,3.25,4
+61,Alkoholi joomine on noorte seas tavaline.,Gender,Mittebinaarne,5,0.6,0.0,0.2,3.6666666666666665,3
+62,Olen tundnud puudust vaimse tervise abist.,Gender,Mittebinaarne,5,0.8,0.0,0.0,3.75,4
+63,"Pean oluliseks, et kõik inimesed vaktsineeriksid ennast, et vanad haigused ei tuleks tagasi.",Gender,Mittebinaarne,5,0.8,0.0,0.0,3.75,4
+64,Noortel on keeruline paarisuhteid luua.,Gender,Mittebinaarne,5,0.2,0.4,0.4,2.6666666666666665,3
+65,Üheöösuhted on noorte seas tavalised.,Gender,Mittebinaarne,5,0.4,0.4,0.2,2.5,4
+66,Enamik noori leiab partneri mõnest kohtinguäpist.,Gender,Mittebinaarne,5,0.0,0.4,0.6,1.5,2
+67,Mind on seksuaalselt ahistatud täisealise poolt.,Gender,Mittebinaarne,5,0.6,0.2,0.2,3.5,4
+1,"Tulevik tundub mulle äge, ootan seda põnevusega!",Gender,Naine,288,0.8020833333333334,0.1076388888888889,0.09027777777777778,3.2748091603053435,262
+2,Tulevik hirmutab mind,Gender,Naine,288,0.7916666666666666,0.1423611111111111,0.0625,3.2304832713754648,269
+3,"Tahaksin, et võiksin kooli lõpetamisele minna suvalistes riietes",Gender,Naine,288,0.10416666666666667,0.8333333333333334,0.0625,1.5851851851851853,270
+4,Ma tunnen end nüüd täiskasvanuna,Gender,Naine,288,0.2916666666666667,0.4930555555555556,0.2152777777777778,2.243362831858407,226
+5,Vanemad inimesed on noortest igas asjas targemad.,Gender,Naine,288,0.041666666666666664,0.8958333333333334,0.0625,1.6407407407407408,270
+6,"Mul on kõrini sellest, et kõik küsivad, mida ma pärast lõpetamist edasi teen.",Gender,Naine,288,0.7256944444444444,0.21875,0.052083333333333336,3.1911764705882355,272
+7,"Mul pole õrna aimugi, kelleks ma tahan saada.",Gender,Naine,288,0.4895833333333333,0.4201388888888889,0.09027777777777778,2.633587786259542,262
+8,Tegin enamiku kodutöid tehisaruga.,Gender,Naine,288,0.2569444444444444,0.6944444444444444,0.041666666666666664,1.967153284671533,274
+9,"Olen teeselnud tunnis, et sain õpetajast/tunni teemast aru",Gender,Naine,288,0.7534722222222222,0.20833333333333334,0.03819444444444445,3.1299638989169676,277
+10,"Mõtlen pärast lõpetamist võtta vaheaasta, et töötada või puhata.",Gender,Naine,288,0.16666666666666666,0.5902777777777778,0.24305555555555555,1.834862385321101,218
+12,Eestis tühistatakse inimesi liiga kergekäeliselt.,Gender,Naine,288,0.2534722222222222,0.3020833333333333,0.4444444444444444,2.4125,160
+13,Tahan nüüd endale tätoveeringu teha lasta.,Gender,Naine,288,0.46875,0.375,0.15625,2.588477366255144,243
+14,Armastan käia metsas.,Gender,Naine,288,0.8368055555555556,0.1111111111111111,0.052083333333333336,3.3846153846153846,273
+15,Armastan käia seenel.,Gender,Naine,288,0.4375,0.4236111111111111,0.1388888888888889,2.5,248
+16,Mulle meeldib käia pidudel.,Gender,Naine,288,0.7395833333333334,0.1875,0.07291666666666667,3.1048689138576777,267
+17,Mulle meeldib teha sporti.,Gender,Naine,288,0.8055555555555556,0.1284722222222222,0.0625,3.2936802973977697,269
+18,Ma hakkan gümnaasiumis käimist taga igatsema.,Gender,Naine,288,0.5138888888888888,0.28125,0.2048611111111111,2.7510917030567685,229
+19,Poliitikud tunduvad mulle äärmiselt usaldusväärsed ja targad inimesed.,Gender,Naine,288,0.020833333333333332,0.9131944444444444,0.06597222222222222,1.657992565055762,269
+20,Eesti on salliv riik eri rahvuste suhtes.,Gender,Naine,288,0.375,0.4375,0.1875,2.4145299145299144,234
+21,Eesti on salliv riik seksuaalvähemuste suhtes.,Gender,Naine,288,0.25,0.5138888888888888,0.2361111111111111,2.1954545454545453,220
+22,Eesti võiks olla konservatiivsem.,Gender,Naine,288,0.09722222222222222,0.6354166666666666,0.2604166666666667,1.6635071090047393,211
+23,"Olen uhke, et olen eestlane.",Gender,Naine,288,0.8923611111111112,0.03125,0.0763888888888889,3.4962406015037595,266
+24,"Pean loomulikuks, et inimene võib ise määratleda, mis soost ta on.",Gender,Naine,288,0.6006944444444444,0.22916666666666666,0.1597222222222222,3.0,239
+25,Eestis peaks olema rohkem unisex-WC-sid.,Gender,Naine,288,0.28125,0.3854166666666667,0.3333333333333333,2.3072916666666665,192
+26,"Võimekas juht võib olla nii naine kui mees. Loevad oskused, mitte sugu.",Gender,Naine,288,0.9965277777777778,0.0,0.0,3.986062717770035,287
+27,"Kokkama, koristama ja pesu pesema peavad koos elavad inimesed võrdselt, sõltumata soost.",Gender,Naine,288,0.9652777777777778,0.010416666666666666,0.024305555555555556,3.832740213523132,281
+28,"Nõusolek on see, kui ma ütlen „jah”, mitte see, kui ma ei öelnud „ei”.",Gender,Naine,288,0.9548611111111112,0.017361111111111112,0.027777777777777776,3.857142857142857,280
+29,Laste saamine on iga täiskasvanud kodaniku vastutus oma rahvuse säilimise nimel.,Gender,Naine,288,0.14930555555555555,0.6666666666666666,0.18055555555555555,1.825531914893617,235
+30,Keskkonnahoid on mulle olulisem kui majanduskasv.,Gender,Naine,288,0.5243055555555556,0.13541666666666666,0.3368055555555556,2.9842105263157896,190
+31,Eesti tegeleb kliimakriisi leevendamisega piisavalt.,Gender,Naine,288,0.1840277777777778,0.3784722222222222,0.4375,2.314814814814815,162
+32,Jalakäijate turvalisuse huvides võiks olla linnades autode kiiruspiirang 30 km/h.,Gender,Naine,288,0.13194444444444445,0.7222222222222222,0.14583333333333334,1.8658536585365855,246
+33,Linnades võiks olla rohkem puid ja põõsaid.,Gender,Naine,288,0.9270833333333334,0.013888888888888888,0.059027777777777776,3.5313653136531364,271
+34,Eestis on igas maakonnas ja linnas võimalik täisväärtuslikku elu elada.,Gender,Naine,288,0.3368055555555556,0.5034722222222222,0.1597222222222222,2.334710743801653,242
+35,Olen valmis vajadusel Eesti kaitsmiseks relva haarama.,Gender,Naine,288,0.3229166666666667,0.4340277777777778,0.2326388888888889,2.353211009174312,218
+36,Mul on kindel seisukoht Ukraina-Venemaa sõjas.,Gender,Naine,288,0.8368055555555556,0.034722222222222224,0.11805555555555555,3.6254980079681274,251
+37,Mul on kindel seisukoht Iisraeli-Palestiina konfliktis.,Gender,Naine,288,0.46875,0.12152777777777778,0.3958333333333333,3.1294117647058823,170
+38,Romantiline suhe on minu jaoks oluline osa elust.,Gender,Naine,288,0.7743055555555556,0.1423611111111111,0.07291666666666667,3.215909090909091,264
+39,Näen abiellumist olulise ja loomuliku osana oma tulevikust.,Gender,Naine,288,0.5833333333333334,0.2569444444444444,0.1597222222222222,2.8801652892561984,242
+40,Soovin kindlasti tulevikus saada lapsi.,Gender,Naine,288,0.59375,0.20833333333333334,0.19444444444444445,3.0086580086580086,231
+41,Tahaks tulevikus pigem koera või kassi kui last.,Gender,Naine,288,0.34375,0.4375,0.21875,2.462222222222222,225
+42,"Minu jaoks on tulevikus oluline just Eesti riigis oma pere luua, mitte välismaal.",Gender,Naine,288,0.3784722222222222,0.3125,0.3090277777777778,2.608040201005025,199
+43,Minu jaoks on üürikorteris elada sama hea kui endale (pangalaenuga) ostetud kodus.,Gender,Naine,288,0.1736111111111111,0.5347222222222222,0.2916666666666667,2.0245098039215685,204
+44,Kavatsen elada ema ja/või isaga koos nii kaua kui võimalik.,Gender,Naine,288,0.1597222222222222,0.6944444444444444,0.1388888888888889,1.8577235772357723,246
+45,Tahan tulevikus pigem üksinda elada.,Gender,Naine,288,0.4965277777777778,0.3159722222222222,0.1875,2.6923076923076925,234
+46,Elaksin tulevikus meelsasti koos sõpradega.,Gender,Naine,288,0.5416666666666666,0.28125,0.1736111111111111,2.7510548523206753,237
+47,Mul peaks olema tulevikus isiklik sõiduauto.,Gender,Naine,288,0.7881944444444444,0.1388888888888889,0.06944444444444445,3.363295880149813,267
+48,Näen end tulevikus elamas väljaspool Eesti suuremaid linnasid.,Gender,Naine,288,0.4479166666666667,0.2951388888888889,0.2569444444444444,2.6869158878504673,214
+49,Näen end tulevikus elamas maapiirkonnas.,Gender,Naine,288,0.4201388888888889,0.34375,0.2326388888888889,2.5636363636363635,220
+50,Näen end tulevikus elamas välismaal.,Gender,Naine,288,0.4895833333333333,0.21180555555555555,0.2986111111111111,2.8168316831683167,202
+51,"Minu jaoks on kõige olulisem selline koolide edetabel, mis näitab, kui õnnelikud on sealsed õpilased.",Gender,Naine,288,0.5798611111111112,0.2361111111111111,0.18055555555555555,2.8893617021276596,235
+52,Kutsekool on edasiõppimiseks sama hea valik kui kõrgkool.,Gender,Naine,288,0.6284722222222222,0.2361111111111111,0.13194444444444445,2.963855421686747,249
+53,Minu kooli õpetajad on targad ja inspireerivad.,Gender,Naine,288,0.7708333333333334,0.1111111111111111,0.1076388888888889,3.232283464566929,254
+54,Kujutan end ette üheksast viieni kontoris töötamas.,Gender,Naine,288,0.1527777777777778,0.6736111111111112,0.1736111111111111,1.7647058823529411,238
+55,"Kujutan end ette tegemas üheksast viieni oskustööd (nt juuksur, ehitaja, elektrik).",Gender,Naine,288,0.25,0.5590277777777778,0.1909722222222222,2.0643776824034337,233
+56,Kodukontor ja paindlik tööaeg on elementaarne.,Gender,Naine,288,0.7916666666666666,0.10069444444444445,0.1076388888888889,3.237354085603113,257
+57,Valin töö pigem palga kui kutsumuse järgi.,Gender,Naine,288,0.2881944444444444,0.53125,0.18055555555555555,2.233050847457627,236
+59,Alkohol on sama ohtlik kui enamik narkootikume.,Gender,Naine,288,0.5625,0.3263888888888889,0.1111111111111111,2.83984375,256
+60,Narkootikumide tarvitamine on noorte seas tavaline.,Gender,Naine,288,0.4305555555555556,0.3402777777777778,0.2222222222222222,2.6171171171171173,222
+61,Alkoholi joomine on noorte seas tavaline.,Gender,Naine,288,0.9722222222222222,0.017361111111111112,0.010416666666666666,3.6070175438596492,285
+62,Olen tundnud puudust vaimse tervise abist.,Gender,Naine,288,0.4756944444444444,0.3958333333333333,0.1284722222222222,2.593625498007968,251
+63,"Pean oluliseks, et kõik inimesed vaktsineeriksid ennast, et vanad haigused ei tuleks tagasi.",Gender,Naine,288,0.75,0.08333333333333333,0.1527777777777778,3.425,240
+64,Noortel on keeruline paarisuhteid luua.,Gender,Naine,288,0.4965277777777778,0.3020833333333333,0.2013888888888889,2.760869565217391,230
+65,Üheöösuhted on noorte seas tavalised.,Gender,Naine,288,0.3541666666666667,0.2951388888888889,0.3506944444444444,2.588235294117647,187
+66,Enamik noori leiab partneri mõnest kohtinguäpist.,Gender,Naine,288,0.2638888888888889,0.3993055555555556,0.3368055555555556,2.3717277486910993,191
+67,Mind on seksuaalselt ahistatud täisealise poolt.,Gender,Naine,288,0.19791666666666666,0.7048611111111112,0.05555555555555555,1.6346153846153846,260
