@@ -65,14 +65,6 @@ LIKERT_ORDER = [
     "pigem olen nõus",
     "olen täiesti nõus",
 ]
-LIKERT_AGGREGATE_ORDER = ["ei ole nõus", "ei oska öelda", "nõus"]
-LIKERT_AGGREGATE_MAP = {
-    "pole üldse nõus": "ei ole nõus",
-    "pigem ei ole nõus": "ei ole nõus",
-    "ei oska öelda": "ei oska öelda",
-    "pigem olen nõus": "nõus",
-    "olen täiesti nõus": "nõus",
-}
 YES_NO_ORDER = ["Jah", "Ei", "Ei oska öelda"]
 SALARY_ORDER = [
     "Alates 1000",
@@ -178,6 +170,28 @@ def question_label(question: str, answers: pd.DataFrame) -> str:
     return f"{int(row.iloc[0]['question_index'])}. {question}"
 
 
+def question_type_for(question: str, answers: pd.DataFrame) -> str | None:
+    row = answers.loc[answers["question"].eq(question), ["question_type"]].head(1)
+    if row.empty or pd.isna(row.iloc[0]["question_type"]):
+        return None
+    return row.iloc[0]["question_type"]
+
+
+def render_question_card(
+    question: str,
+    answers: pd.DataFrame,
+    metrics: pd.DataFrame,
+    active_series: list[tuple[str, str, str]],
+) -> None:
+    st.subheader(question_label(question, answers))
+    rows_by_label = {
+        label: rows_for_question(answers, question, group_type, group_value)
+        for label, group_type, group_value in active_series
+    }
+    distribution = build_distribution(rows_by_label)
+    render_distribution_chart(distribution, active_series)
+
+
 def comparison_series(answers: pd.DataFrame, comparison_mode: str) -> list[tuple[str, str, str]]:
     if comparison_mode == "Koolikoht":
         available_values = set(
@@ -211,15 +225,7 @@ def comparison_series(answers: pd.DataFrame, comparison_mode: str) -> list[tuple
 def answer_order(question_answers: pd.DataFrame) -> list[str]:
     answers = question_answers["answer"].dropna().drop_duplicates().tolist()
     if is_likert_distribution(question_answers):
-        aggregate_answers = {
-            LIKERT_AGGREGATE_MAP.get(answer, answer)
-            for answer in answers
-        }
-        return [
-            answer
-            for answer in LIKERT_AGGREGATE_ORDER
-            if answer in aggregate_answers
-        ]
+        return [answer for answer in LIKERT_ORDER if answer in answers]
 
     known_orders = [LIKERT_ORDER, YES_NO_ORDER, SALARY_ORDER, APP_ORDER]
     for known_order in known_orders:
@@ -294,27 +300,18 @@ def is_likert_distribution(question_answers: pd.DataFrame) -> bool:
     return bool(answers) and answers.issubset(set(LIKERT_ORDER))
 
 
-def distribution_rows(rows: pd.DataFrame, use_likert_aggregate: bool) -> pd.DataFrame:
-    if not use_likert_aggregate:
-        return rows
-
-    aggregated = rows.copy()
-    aggregated["answer"] = aggregated["answer"].map(LIKERT_AGGREGATE_MAP).fillna(aggregated["answer"])
-    return (
-        aggregated.groupby("answer", as_index=False, sort=False)[["count", "percent"]]
-        .sum()
-    )
+def distribution_rows(rows: pd.DataFrame) -> pd.DataFrame:
+    return rows
 
 
 def build_distribution(
     rows_by_label: dict[str, pd.DataFrame],
 ) -> pd.DataFrame:
     overall_rows = rows_by_label[OVERALL_LABEL]
-    use_likert_aggregate = is_likert_distribution(overall_rows)
     order = answer_order(overall_rows)
     maps_by_label = {
-        label: distribution_rows(rows, use_likert_aggregate)
-        .set_index("answer")[["count", "percent"]]
+        label: distribution_rows(rows)
+        .set_index("answer")[['count', 'percent']]
         .to_dict("index")
         for label, rows in rows_by_label.items()
     }
@@ -356,12 +353,17 @@ def render_distribution_chart(
         color="Rühm",
         orientation="h",
         barmode="group",
-        text=chart_df["Osakaal, %"].map(lambda value: f"{value:.1f}%"),
+        text="Osakaal, %",
         category_orders={"answer": list(reversed(order))},
         color_discrete_map=SERIES_COLORS,
         labels={"answer": "Vastus", "Osakaal, %": "Osakaal vastanutest (%)"},
     )
-    fig.update_traces(textposition="outside", cliponaxis=False)
+    fig.update_traces(
+        texttemplate="%{text:.1f}%",
+        textposition="outside",
+        textfont=dict(color="black"),
+        cliponaxis=False,
+    )
     fig.update_layout(
         height=max(380, 72 * len(order)),
         margin=dict(l=12, r=42, t=10, b=10),
@@ -371,19 +373,6 @@ def render_distribution_chart(
         plot_bgcolor="white",
     )
     st.plotly_chart(fig, use_container_width=True)
-
-
-def render_distribution_table(
-    distribution: pd.DataFrame,
-    active_series: list[tuple[str, str, str]],
-) -> None:
-    table = pd.DataFrame({"Vastus": distribution["answer"]})
-    for label, _, _ in active_series:
-        table[f"{label}: arv"] = distribution[f"{label} count"]
-        table[f"{label}: %"] = distribution[label].map(pct)
-        if label != OVERALL_LABEL:
-            table[f"{label}: vahe"] = distribution[f"{label} vahe"].map(lambda value: f"{value:+.1f} pp")
-    st.dataframe(table, hide_index=True, use_container_width=True)
 
 
 def render_likert_metrics(
@@ -429,46 +418,26 @@ def main() -> None:
 
     questions = question_options(answers)
 
-    st.sidebar.title("Filtrid")
-    selected_question = st.sidebar.selectbox(
-        "Vali küsimus",
-        questions,
-        format_func=lambda question: question_label(question, answers),
-    )
-
-    question_type = (
-        answers.loc[answers["question"].eq(selected_question), "question_type"]
-        .dropna()
-        .iloc[0]
-    )
-
     st.title("Abiturientide küsitluse dashboard")
     comparison_mode = st.radio(
         "Võrdluse alus",
         ["Koolikoht", "Sugu"],
+        index=0,
         horizontal=True,
         label_visibility="visible",
     )
     active_series = comparison_series(answers, comparison_mode)
 
     st.caption(
-        "Võrdle kõikide vastajate tulemust valitud rühmadega. "
-        "Protsendid arvutatakse nende vastajate põhjal, kes vastasid valitud küsimusele."
+        "Võrdle kõikide vastajate tulemusi valitud rühmadega. "
+        "Üksikute küsimuste kuvamiseks pole vaja valida eraldi küsimust."
     )
 
-    rows_by_label = {
-        label: rows_for_question(answers, selected_question, group_type, group_value)
-        for label, group_type, group_value in active_series
-    }
-
-    distribution = build_distribution(rows_by_label)
-
-    st.subheader("Vastuste jaotus")
-    render_distribution_chart(distribution, active_series)
-    render_distribution_table(distribution, active_series)
-
-    if question_type == "likert":
-        render_likert_metrics(metrics, selected_question, active_series)
+    for row_start in range(0, len(questions), 3):
+        cols = st.columns(3)
+        for col, question in zip(cols, questions[row_start : row_start + 3]):
+            with col:
+                render_question_card(question, answers, metrics, active_series)
 
     with st.expander("Andmete päritolu"):
         st.write(f"Vastuste fail: `{ANSWERS_PATH}`")
