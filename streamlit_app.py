@@ -344,7 +344,7 @@ def render_distribution_chart(
     order = distribution["answer"].tolist()
     distribution["percent"] = distribution[OVERALL_LABEL] * 100
 
-    if chart_type == "Baarid":
+    if chart_type == "Tulbad":
         fig = px.bar(
             distribution,
             x="percent",
@@ -436,7 +436,7 @@ def main() -> None:
     st.title("Abiturientide küsitluse dashboard")
     chart_type = st.radio(
         "Diagrammi tüüp",
-        ["Baarid", "Sektordiagramm"],
+        ["Tulbad", "Sektordiagramm"],
         horizontal=True,
         label_visibility="visible",
     )
