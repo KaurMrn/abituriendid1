@@ -505,13 +505,6 @@ def main() -> None:
     except FileNotFoundError as exc:
         st.warning(str(exc))
 
-    with st.expander("Andmete päritolu"):
-        st.write(f"Vastuste fail: `{ANSWERS_PATH}`")
-        st.write(
-            "Kui lähteandmed muutuvad, käivita enne dashboard'i uuesti "
-            "`create_abituriendid_summary.py`."
-        )
-
 
 if __name__ == "__main__":
     main()
