@@ -444,7 +444,7 @@ def main() -> None:
 
     questions = question_options(answers)
 
-    st.title("Abiturientide küsitluse dashboard")
+    st.title("Abiturientide uuring")
     chart_type = st.radio(
         "Diagrammi tüüp",
         ["Baarid", "Sektordiagramm"],
@@ -453,7 +453,7 @@ def main() -> None:
     )
 
     st.caption(
-        "Protsendid arvutatakse nende vastajate põhjal, kes vastasid valitud küsimusele."
+        "Tagasime vastajatele täieliku anonüümsuse. Võtsime ühendust noortega, kes märkisid, et on nõus ajakirjanikuga vestlema ja andsid selleks oma meiliaadressi. Täidetud ankeet ei salvestunud meiliaadressiga samasse kohta, nii et ka sellisel juhul puudus võimalus vastuseid isikuga seostada.."
     )
 
     school_gender = load_school_gender_data()
