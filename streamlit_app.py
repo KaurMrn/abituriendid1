@@ -138,7 +138,7 @@ def load_role_models_data() -> list[str]:
     if not ROLE_MODELS_PATH.exists():
         raise FileNotFoundError("Puudub andmefail: " + str(ROLE_MODELS_PATH))
 
-    data = pd.read_csv(ROLE_MODELS_PATH, encoding="utf-8-sig")
+    data = pd.read_csv(ROLE_MODELS_PATH, encoding="utf-8-sig", engine="python", on_bad_lines="skip")
     # Get all non-null values from the first column and convert to list
     return data.iloc[:, 0].dropna().tolist()
 
