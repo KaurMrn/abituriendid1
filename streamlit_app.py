@@ -491,8 +491,17 @@ def main() -> None:
     st.subheader("Nimeta üks oma eeskuju/suurim mõjutaja.")
     try:
         role_models = load_role_models_data()
-        for role_model in role_models:
-            st.write(f"• {role_model}")
+        cols = st.columns(3)
+        
+        # Distribute role models evenly across 3 columns
+        items_per_col = (len(role_models) + 2) // 3  # Ceiling division
+        
+        for col_idx, col in enumerate(cols):
+            start_idx = col_idx * items_per_col
+            end_idx = start_idx + items_per_col
+            with col:
+                for role_model in role_models[start_idx:end_idx]:
+                    st.write(f"• {role_model}")
     except FileNotFoundError as exc:
         st.warning(str(exc))
 
