@@ -11,6 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "outputs" / "abituriendid_summary"
 ANSWERS_PATH = DATA_DIR / "dashboard_answers.csv"
 SCHOOL_GENDER_PATH = DATA_DIR / "kool+sugu.csv"
+ROLE_MODELS_PATH = DATA_DIR / "eeskujud.csv"
 
 OVERALL_GROUP_TYPE = "Overall"
 OVERALL_GROUP_VALUE = "All"
@@ -130,6 +131,16 @@ def load_school_gender_data() -> pd.DataFrame:
     data = pd.read_csv(SCHOOL_GENDER_PATH, encoding="utf-8-sig", sep=";")
     data.columns = data.columns.str.strip()
     return data
+
+
+@st.cache_data(show_spinner=False)
+def load_role_models_data() -> list[str]:
+    if not ROLE_MODELS_PATH.exists():
+        raise FileNotFoundError("Puudub andmefail: " + str(ROLE_MODELS_PATH))
+
+    data = pd.read_csv(ROLE_MODELS_PATH, encoding="utf-8-sig")
+    # Get all non-null values from the first column and convert to list
+    return data.iloc[:, 0].dropna().tolist()
 
 
 def build_raw_distribution(
@@ -344,7 +355,7 @@ def render_distribution_chart(
     order = distribution["answer"].tolist()
     distribution["percent"] = distribution[OVERALL_LABEL] * 100
 
-    if chart_type == "Tulpdiagramm":
+    if chart_type == "Baarid":
         fig = px.bar(
             distribution,
             x="percent",
@@ -436,7 +447,7 @@ def main() -> None:
     st.title("Abiturientide küsitluse dashboard")
     chart_type = st.radio(
         "Diagrammi tüüp",
-        ["Tulpdiagramm", "Sektordiagramm"],
+        ["Baarid", "Sektordiagramm"],
         horizontal=True,
         label_visibility="visible",
     )
@@ -476,6 +487,14 @@ def main() -> None:
                 )
                 distribution = build_distribution({OVERALL_LABEL: overall_rows})
                 render_distribution_chart(distribution, chart_type)
+
+    st.subheader("Nimeta üks oma eeskuju/suurim mõjutaja.")
+    try:
+        role_models = load_role_models_data()
+        for role_model in role_models:
+            st.write(f"• {role_model}")
+    except FileNotFoundError as exc:
+        st.warning(str(exc))
 
     with st.expander("Andmete päritolu"):
         st.write(f"Vastuste fail: `{ANSWERS_PATH}`")
